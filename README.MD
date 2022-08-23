@@ -1,6 +1,8 @@
 # Mapeamento dos Riscos de Fogo Anual no Brasil (2018-2020)
 ## Com Indicativo da Severidade do Incêndio Baseada na Potência Radiativa de Queima (FRP)
 
+<img src="https://cdn.pixabay.com/photo/2022/08/08/02/35/forest-fire-7371724_960_720.jpg"  width="960" height="360">
+
 * Projeto desenvolvido para análise de um dataset referente ao mapeamento dos riscos de queimadas no Brasil baseado no parâmetro risco de fogo, contemplando os anos 2018-2020;
 * O **risco de fogo** é uma medida probabilística, desenvolvida pelo Centro de Previsão de Tempo e Estudos Climáticos do Instituto Nacional de Pesquisas Espaciais (CPTEC/INPE), que indica a tendência de efetivação de um foco de incêndio. A classificação para o risco de fogo é a seguinte: mínimo, baixo, médio, alto e crítico;
 * Um dashboard para visualização dos dados foi construído com o software Tableau e está disponível em: 
