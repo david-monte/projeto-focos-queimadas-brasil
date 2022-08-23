@@ -1,5 +1,6 @@
 # Mapeamento dos Riscos de Fogo Anual no Brasil (2018-2020)
 ## Com Indicativo da Severidade do Incêndio Baseada na Potência Radiativa de Queima (FRP)
+> Projeto desenvolvido por: David S. Monte & Wanderson R. Marques
 
 <img src="https://cdn.pixabay.com/photo/2022/08/08/02/35/forest-fire-7371724_960_720.jpg"  width="960" height="360">
 
